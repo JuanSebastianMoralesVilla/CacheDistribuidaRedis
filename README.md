@@ -57,4 +57,4 @@ https://github.com/JuanSebastianMoralesVilla/CacheDistribuidaRedis/blob/main/Cac
 
 ## Video  💎
 
-
+https://drive.google.com/file/d/1ARWu4Kvq-_DN4Nv940aF8e5LPluLUZeg/view?usp=sharing
