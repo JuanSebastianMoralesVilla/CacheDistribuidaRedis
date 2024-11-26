@@ -39,7 +39,7 @@ Utilizando Spring Boot y Redis.
     cd Cache_Distribuida
     ```
 
-3. Asegúrate de tener Redis en ejecución en tu máquina. Si no lo tienes, puedes instalarlo siguiendo la documentación oficial de [Redis](https://redis.io/download).
+3. Tener Redis en ejecución en tu máquina.
 
 4. Compilar el proyecto:
 
