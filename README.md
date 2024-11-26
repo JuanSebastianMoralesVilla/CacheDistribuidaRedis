@@ -53,3 +53,4 @@ Utilizando Spring Boot y Redis.
     mvn spring-boot:run
     ```
 ## Coleccion postman 
+https://github.com/JuanSebastianMoralesVilla/CacheDistribuidaRedis/blob/main/Cache%20distribuida.postman_collection.json
