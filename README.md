@@ -1,9 +1,9 @@
-# Cache Distribuida
+# Cache Distribuida 🎛️
 
-Este es un proyecto que implementa una **Cache Distribuida** utilizando **Redis** para almacenar y gestionar usuarios de manera eficiente en una aplicación. 
-Utilizando Spring Boot y Redis.
+Es un proyecto que implementa una **Cache Distribuida** utilizando **Redis** para almacenar y gestionar usuarios de manera eficiente en una aplicación. 
+Utilizando Spring Boot y Redis. 
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas 🧰
 
 - **Java 11**
 - **Spring Boot**
@@ -12,7 +12,7 @@ Utilizando Spring Boot y Redis.
 - **Mockito** (para pruebas con mocks)
 - **Spring Data Redis**
 
-## Características
+## Características ⚙️
 
 - **Guardar** usuarios en la cache.
 - **Actualizar** usuarios en la cache.
@@ -20,12 +20,12 @@ Utilizando Spring Boot y Redis.
 - **Consultar** todos los usuarios almacenados en la cache.
 
 
-## Requisitos
+## Requisitos ⚖️
 
 - Java 11 o superior.
 - Redis instalado y en funcionamiento.
 
-## Instrucciones de instalación
+## Instrucciones de instalación 🛠️
 
 1. Clonar el repositorio:
 
@@ -52,5 +52,9 @@ Utilizando Spring Boot y Redis.
     ```bash
     mvn spring-boot:run
     ```
-## Coleccion postman 
+## Coleccion postman  💎
 https://github.com/JuanSebastianMoralesVilla/CacheDistribuidaRedis/blob/main/Cache%20distribuida.postman_collection.json
+
+## Video  💎
+
+
